@@ -7,7 +7,7 @@
 <br>
 
 <br>
-<img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kawtar&layout=compact&theme=dark">
+<img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kaboussi&layout=compact&theme=dark">
 <br>
 <a width="80%" href="https://wakatime.com/@018cee35-424f-430f-9ad1-79fee29d80cf"><img width=35% src="https://wakatime.com/badge/user/d8d97d89-eab6-44b6-a778-2a75a92a25fc.svg" alt="Total time coded since Feb 10 2021" /></a>
   <div>
