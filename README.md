@@ -1,8 +1,8 @@
 ### Hi there 👋
 
+<div align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/kaboussi" alt="kaboussi's 42 stats" /></a>
 
-<div align="center">
 <br>
 <a width="80%" href="https://github.com/kaboussi00?tab=repositories">
    <img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaboussi00&theme=dark&layout=compact&card_width=445px"/>
